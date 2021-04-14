@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Luka",
+        "surname": "Butikashvili",
+        "avatar": "https://sdad",
+        "id": 1
+    },
+    {
+        "name": "Nika",
+        "surname": "Chachua",
+        "avatar": "https://sdad",
+        "id": 2
+    },
+    {
+        "name": "Sandro",
+        "surname": "Menabde",
+        "avatar": "https://sdad",
+        "id": 3
+    },
+    {
+        "name": "Giorgi",
+        "surname": "Orbeliani",
+        "avatar": "https://sdad",
+        "id": 4
+    },
+    {
+        "name": "Erekle",
+        "surname": "Charkviani",
+        "avatar": "https://sdad",
+        "id": 5
+    }
+]
